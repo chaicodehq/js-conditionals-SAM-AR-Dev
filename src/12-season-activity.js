@@ -78,3 +78,4 @@ export function getSeasonActivity(month, temperature) {
     activity: activity
   };
 }
+
